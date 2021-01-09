@@ -1,4 +1,3 @@
-## Configuração para plataforma linux na distribução ubuntu
 
 ## Dependências
 
@@ -10,4 +9,5 @@
 
 ## Inicializar Projeto para desenvolvimento
 **npm i**
+
 **npm run dev**
