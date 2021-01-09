@@ -4,3 +4,17 @@
     text-decoration: line-through;
     color: #777;
 }
+
+.todoForm {
+    display: flex;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+.tableActions{
+    width: 121px;
+}
+
+.btn{
+    margin: 2px;
+}
